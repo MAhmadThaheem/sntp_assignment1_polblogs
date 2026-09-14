@@ -1,0 +1,14 @@
+,0
+nodes,1222.0
+edges,19021.0
+density,0.012748129769406365
+num_weakly_connected_components,1.0
+largest_wcc_size,1222.0
+num_strongly_connected_components,420.0
+largest_scc_size,793.0
+in_degree_mean,15.565466448445171
+in_degree_median,3.0
+in_degree_max,337.0
+out_degree_mean,15.565466448445171
+out_degree_median,7.0
+out_degree_max,256.0

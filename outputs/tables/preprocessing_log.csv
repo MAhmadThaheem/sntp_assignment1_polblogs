@@ -1,0 +1,13 @@
+,0
+before_nodes,1490
+before_edges,19025
+self_loops_removed,3
+duplicate_edges_removed,65
+isolates_removed,266
+after_full_clean_nodes,1224
+after_full_clean_edges,19022
+num_weakly_connected_components,2
+largest_wcc_size,1222
+nodes_dropped_as_small_disconnected_components,2
+analysis_graph_nodes,1222
+analysis_graph_edges,19021

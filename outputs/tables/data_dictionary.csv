@@ -1,0 +1,5 @@
+Field,Meaning,Description
+Node ID,internal identifier,"Blog's domain/URL string, e.g. '100monkeystyping.com'"
+value,political-orientation label (GROUND TRUTH),"0 = liberal/left blog, 1 = conservative/right blog. Used ONLY in Part E."
+source,directory source,Which blog directory listed this blog (e.g. Blogarama) — not used analytically.
+Edge (u -> v),hyperlink,"Blog u links to blog v on its front page. Directed, unweighted, no self-relation implied."
