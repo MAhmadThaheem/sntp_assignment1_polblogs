@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Large / regenerable data (comment out if you want to commit the dataset)
+# data/polblogs.gml
+
+# Notebook outputs get regenerated on re-run; keep them versioned only if you want figures visible on GitHub without running the notebook
+# outputs/
